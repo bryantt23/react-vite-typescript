@@ -40,3 +40,10 @@
 .read-the-docs {
   color: #888;
 }
+
+.rectangle {
+  width: 10px;
+  height: 10px;
+  background-color: blue;
+  margin: 5px;
+}
