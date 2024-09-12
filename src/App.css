@@ -41,9 +41,23 @@
   color: #888;
 }
 
-.rectangle {
+.og {
   width: 10px;
   height: 10px;
   background-color: blue;
+  margin: 5px;
+}
+
+.foo {
+  width: 10px;
+  height: 10px;
+  background-color: black;
+  margin: 5px;
+}
+
+.bar {
+  width: 10px;
+  height: 10px;
+  background-color: yellow;
   margin: 5px;
 }
